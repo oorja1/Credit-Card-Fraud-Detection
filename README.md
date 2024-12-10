@@ -1,4 +1,5 @@
-Overview
+Overview:
+
 This project focuses on detecting fraudulent credit card transactions using machine learning techniques. The dataset includes transactional data with labels indicating whether each transaction is fraudulent or not. This project aims to build a predictive model to identify fraudulent transactions efficiently and accurately.
 
 Features
